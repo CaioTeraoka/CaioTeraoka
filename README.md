@@ -1,6 +1,3 @@
-<div> 
-<img height="200" scr="https://www.opencadd.com.br/hubfs/Imported_Blog_Media/close-em-placa-de-circuito.jpg" />
-</div>
 <h1 align="center">Hi 👋, I'm Caio Teraoka</h1>
 <h3>👩‍💻  About Me </h3>
 📚 I am an Electrical Engineering student passionate about embedded systems and cutting-edge technology. My academic journey has been dedicated to enhancing skills in both hardware and firmware development, constantly seeking to integrate innovation and efficiency into each project.
