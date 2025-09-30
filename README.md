@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Teraoka</h1>
 <h3>👩‍💻  About Me </h3>
-📚 I am an Electrical Engineert passionate about embedded systems and cutting-edge technology. My academic journey has been dedicated to enhancing skills in both hardware and firmware development, constantly seeking to integrate innovation and efficiency into each project.
+📚 I am an Electrical Engineer passionate about embedded systems and cutting-edge technology. My academic journey has been dedicated to enhancing skills in both hardware and firmware development, constantly seeking to integrate innovation and efficiency into each project.
 <br>
 🔭With a solid theoretical background coupled with hands-on experiences, I am ready to tackle challenges and make a meaningful contribution to the advancement of electrical engineering and embedded systems technology.
 
